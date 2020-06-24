@@ -31,10 +31,10 @@ if b > -1 and c > -1:
 
     # use the two lines above for 'print' debugging / demonstrating the flow of code 
    
-        while i == int(b):
-            if firstPara + secondPara == b and firstPara * secondPara == c:
-                print("Invalid quadratic equation. No whole number solution")
-                break
+#        while i == int(b):
+#            if firstPara + secondPara == b and firstPara * secondPara == c:
+#               print("Invalid quadratic equation. No whole number solution")
+#               break
         
         if firstPara + secondPara == b and firstPara * secondPara == c:
             break
