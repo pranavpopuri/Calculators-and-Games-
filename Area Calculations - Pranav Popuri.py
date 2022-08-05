@@ -2,7 +2,7 @@ import math
 
 z = input("Do for what shape do you want to find the area? Your choices are square, rectangle, triangle, circle, regular pentagon, regular hexagon, and trapezoid")
 
-#Square!
+#Square
 
 if z == ("square"):
     def areaS(s):
@@ -10,6 +10,7 @@ if z == ("square"):
         return s*s
 
     print(areaS(float(input("Choose the side length for the square"))))
+    print("square complete")
 
 #Rectangle
 
