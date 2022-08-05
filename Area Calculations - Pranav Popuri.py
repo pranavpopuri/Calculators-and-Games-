@@ -2,7 +2,7 @@ import math
 
 z = input("Do for what shape do you want to find the area? Your choices are square, rectangle, triangle, circle, regular pentagon, regular hexagon, and trapezoid")
 
-#Square
+#Square!
 
 if z == ("square"):
     def areaS(s):
