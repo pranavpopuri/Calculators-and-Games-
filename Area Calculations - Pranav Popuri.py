@@ -10,7 +10,7 @@ if z == ("square"):
         return s*s
 
     print(areaS(float(input("Choose the side length for the square"))))
-    print("square complete")
+    print("square completed")
 
 #Rectangle
 
