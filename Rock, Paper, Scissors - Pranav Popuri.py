@@ -6,9 +6,9 @@ z = input("Do you want to play against Jeff(easy), Joe(normal), Jim (hard) or Ja
 
 print("You are playing against" + " " + z)
 
-hp = 3
+hp = 2
 
-botHp = 3
+botHp = 2
 
 if z == "Jeff" or z == "jeff":
     print ("Your health has increased by 2")
