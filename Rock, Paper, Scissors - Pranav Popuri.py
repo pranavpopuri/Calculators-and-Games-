@@ -1,5 +1,7 @@
 import random
 
+#anything random here
+
 z = input("Do you want to play against Jeff(easy), Joe(normal), Jim (hard) or Jay(extended game)?")
 
 print("You are playing against" + " " + z)
